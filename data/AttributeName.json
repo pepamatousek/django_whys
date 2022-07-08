@@ -1,0 +1,12 @@
+[
+{"AttributeName": {"id": 1, "nazev": "Barva"}},
+{"AttributeName": {"id": 2, "nazev": "Odolnost", "kod": "durability"}},
+{"AttributeName": {"id": 3, "nazev": "Povrch"}},
+{"AttributeName": {"id": 4, "nazev": "displej", "zobrazit": true}},
+{"AttributeName": {"id": 1, "zobrazit": true}},
+{"AttributeName": {"id": 2, "zobrazit": true}},
+{"AttributeName": {"id": 3, "zobrazit": true}},
+{"AttributeName": {"id": 5, "nazev": "Skladem"}},
+{"AttributeName": {"id": 6, "nazev": "Sleva"}},
+{"AttributeName": {"id": 7, "nazev": "Ur\u010den\u00ed", "zobrazit": true}}
+]

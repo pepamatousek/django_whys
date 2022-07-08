@@ -1,0 +1,19 @@
+[
+{"ProductAttributes": {"id": 1, "attribute": 19, "product": 1}},
+{"ProductAttributes": {"id": 2, "attribute": 4, "product": 1}},
+{"ProductAttributes": {"id": 3, "attribute": 18, "product": 1}},
+{"ProductAttributes": {"id": 4, "attribute": 6, "product": 2}},
+{"ProductAttributes": {"id": 5, "attribute": 11, "product": 2}},
+{"ProductAttributes": {"id": 6, "attribute": 21, "product": 2}},
+{"ProductAttributes": {"id": 7, "attribute": 22, "product": 1}},
+{"ProductAttributes": {"id": 8, "attribute": 7, "product": 3}},
+{"ProductAttributes": {"id": 9, "attribute": 24, "product": 3}},
+{"ProductAttributes": {"id": 10, "attribute": 21, "product": 3}},
+{"ProductAttributes": {"id": 11, "attribute": 13, "product": 3}},
+{"ProductAttributes": {"id": 12, "attribute": 26, "product": 4}},
+{"ProductAttributes": {"id": 13, "attribute": 6, "product": 4}},
+{"ProductAttributes": {"id": 14, "attribute": 21, "product": 4}},
+{"ProductAttributes": {"id": 15, "attribute": 21, "product": 5}},
+{"ProductAttributes": {"id": 16, "attribute": 2, "product": 5}},
+{"ProductAttributes": {"id": 17, "attribute": 27, "product": 5}}
+]

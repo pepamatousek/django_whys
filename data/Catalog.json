@@ -1,0 +1,4 @@
+[
+{"Catalog": {"id": 1, "nazev": "V\u00fdprodej 2018", "obrazek_id": 4, "products_ids": "[1, 2, 3, 4, 5]", "attributes_ids": "[2, 4, 21, 23]"}},
+{"Catalog": {"id": 1, "products_ids": "[1, 2, 3, 5]"}}
+]

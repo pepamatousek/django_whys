@@ -1,0 +1,7 @@
+[
+{"ProductImage": {"id": 1, "product": 1, "obrazek_id": 1, "nazev": "hlavn\u00ed foto"}},
+{"ProductImage": {"id": 2, "product": 1, "obrazek_id": 2, "nazev": "galerie"}},
+{"ProductImage": {"id": 3, "product": 2, "obrazek_id": 3, "nazev": "hlavn\u00ed foto"}},
+{"ProductImage": {"id": 4, "product": 3, "obrazek_id": 5, "nazev": "hlavn\u00ed foto"}},
+{"ProductImage": {"id": 5, "product": 5, "obrazek_id": 6, "nazev": "hlavn\u00ed foto"}}
+]
