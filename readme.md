@@ -8,7 +8,7 @@ $ python -m venv .venv        #.venv -> je název prostředí a "." skryje slož
 ```
 V Git Bash aktivujeme prostředí příkazem:
 ```
-$ source .venv/script/activate
+$ source .venv/scripts/activate
 ```
 
 Násladně nainstalujeme potřebné knihovny:
